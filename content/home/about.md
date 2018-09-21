@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Multi-Robot Coordination",
-    Triggering Control,
+    "Triggering Control",
     "Robot Task Allocation",
     "Risk-Averse Decision Making"
   ]
