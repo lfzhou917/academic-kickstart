@@ -37,4 +37,4 @@ weight = 5
 
 I received my B.S. degree in Automation from Huazhong University of Science and Technology, Wuhan, China, in 2013, my M.Sc. degree in Control Science and Engineering from Shanghai Jiao Tong University, Shanghai, China, in 2016. I am currently pursuing my Ph.D. degree in Electrical and Computer Engineering, Virginia Tech, Blacksburg, VA, USA. 
 
-“万物之始, 大道至简, 衍化至繁”  ——《道德经》
+“万物之始, 大道至简, 衍化至繁”  —《道德经》
