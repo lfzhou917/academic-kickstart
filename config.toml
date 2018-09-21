@@ -184,27 +184,27 @@ enableGitInfo = false
   ]
 
   # Configuration of talk pages.
-  [params.talks]
+  #[params.talks]
     # Show talk time?
-    time = true
+    #time = true
 
   # Configuration of publication pages.
-  [params.publications]
+  #[params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    #date_format = "January, 2006"
 
   # Configuration of project pages.
-  [params.projects]
+  #[params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    #list_children = true
 
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    #publication_format = 3
 
   # Social/Academic Networking
   #
@@ -297,26 +297,26 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  #engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [params.search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+  #[params.search.algolia]
+    #app_id = ""
+    #api_key = ""
+    #index_name = ""
+    #show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+  #tag = "tags"
+  #category = "categories"
+  #publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
