@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Multi-Robot Coordination",
     "Robot Task Allocation",
+    "Approximation Algorithm",
     "Risk-Averse Decision Making"
   ]
 
@@ -19,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. student in Electrical & Computer Engineering"
   institution = "Virginia Tech"
-  year = 2019
+  year = Expected in 2019
 
 [[education.courses]]
   course = "M.S. in Control Science and Engineering"
