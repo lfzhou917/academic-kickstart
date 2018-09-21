@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Multi-Robot Coordination",
+    Triggering Control,
+    "Robot Task Allocation",
+    "Risk-Averse Decision Making"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. student in Electrical & Computer Engineering"
+  institution = "Virginia Tech"
+  year = Expected in 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.S. in Control Science and Engineering"
+  institution = "Shanghai Jiao Tong University"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. in Automation"
+  institution = "Huazhong University of Science and Technology"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I received my B.S. degree in Automation from Huazhong University of Science and Technology, Wuhan, China, in 2013, my M.Sc. degree in Control Science and Engineering from Shanghai Jiao Tong University, Shanghai, China, in 2016. I am currently pursuing my Ph.D. degree in Electrical and Computer Engineering, Virginia Tech, Blacksburg, VA, USA. 
