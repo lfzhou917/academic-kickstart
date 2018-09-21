@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. student in Electrical & Computer Engineering, Expected in"
   institution = "Virginia Tech"
-  year = 2019
+  year =2019
 
 [[education.courses]]
   course = "M.S. in Control Science and Engineering"
