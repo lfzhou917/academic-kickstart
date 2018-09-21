@@ -3,8 +3,8 @@ title = "Mobile visual clothing search"
 date = 2013-07-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+# Authors. Comma separated list, e.g. `["Lifeng Zhou", "Shaoyuan Li"]`.
+authors = ["Lifeng Zhou", "Shaoyuan Li"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,17 @@ authors = ["GA Cushen", "MS Nixon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Control Conference (CCC), 2015 34th Chinese*, IEEE."
+publication_short = "In *CCC,2015*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "This paper presents a distributed model predictive control (DMPC) strategy to achieve cooperative tasks like consensus and synchronization of linear systems with coupled constraints. Based on the error of state between each subsystem and the center of its cooperative set, a novel DMPC algorithm is designed with its robust feasibility guaranteed by permitting only one subsystem to optimize at each time instant, while renew other subsystems' plans. Illustrative examples are finally conducted to verify the effectiveness of the DMPC strategy."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,15 +42,15 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7260840"
+# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
