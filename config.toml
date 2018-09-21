@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "RAAS Lab at Virginia Tech", url = "https://www.raas.ece.vt.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "lfzhou AT vt.edu"
   address = "621 Whittemore Hall, Virginia Tech, Blacksburg, VA 24061, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
