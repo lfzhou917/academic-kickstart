@@ -1,5 +1,5 @@
 +++
-title = "Mobile visual clothing search"
+title = "Cooperative control of linear systems with coupled constraints via distributed model predictive control"
 date = 2013-07-01T00:00:00
 draft = false
 
@@ -54,7 +54,7 @@ url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7260840"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
