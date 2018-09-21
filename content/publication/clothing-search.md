@@ -1,6 +1,6 @@
 +++
 title = "Cooperative control of linear systems with coupled constraints via distributed model predictive control"
-# date = 2013-07-01T00:00:00
+date = 2015-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Lifeng Zhou", "Shaoyuan Li"]`.
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Control Conference (CCC), 2015 34th Chinese*, IEEE."
-publication_short = "In *CCC,2015*"
+publication_short = "In *CCC*"
 
 # Abstract and optional shortened version.
 abstract = "This paper presents a distributed model predictive control (DMPC) strategy to achieve cooperative tasks like consensus and synchronization of linear systems with coupled constraints. Based on the error of state between each subsystem and the center of its cooperative set, a novel DMPC algorithm is designed with its robust feasibility guaranteed by permitting only one subsystem to optimize at each time instant, while renew other subsystems' plans. Illustrative examples are finally conducted to verify the effectiveness of the DMPC strategy."
