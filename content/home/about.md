@@ -18,9 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. student in Electrical & Computer Engineering"
+  course = "Ph.D. student in Electrical & Computer Engineering, Expected in"
   institution = "Virginia Tech"
-  year = Expected in 2019
+  year = 2019
 
 [[education.courses]]
   course = "M.S. in Control Science and Engineering"
