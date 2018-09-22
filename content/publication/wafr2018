@@ -1,0 +1,73 @@
++++
+title = "An Approximation Algorithm for Risk-averse Submodular Optimization"
+date = 2019-12-07T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Lifeng Zhou", "Pratap Tokekar"]`.
+authors = ["[*Conference*] Lifeng Zhou", "Pratap Tokekar"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "In *The 13th International Workshop on the Algorithmic Foundations of Robotics*"
+publication_short = "In *WAFR*"
+
+# Abstract and optional shortened version.
+abstract = "We study the problem of incorporating risk while making combinatorial decisions under uncertainty. We formulate a discrete submodular maximization problem for selecting a set using Conditional-Value-at-Risk (CVaR), a risk metric commonly used in financial analysis. While CVaR has recently been used in optimization of linear costs functions in robotics, we take the first stages towards extending this to discrete submodular optimization and provide several positive results. Specifically, we propose the Sequential Greedy Algorithm that provides an approximation guarantee on finding the maxima of the CVaR cost function under a matroidal constraint. The approximation guarantee shows that the solution produced by our algorithm is within a constant factor of the optimal and an additive term that depends on the optimal. Our analysis uses the curvature of the submodular set function, and proves that the algorithm runs in polynomial time. This formulates a number of combinatorial optimization problems that appear in robotics. We use two such problems, vehicle assignment under uncertainty for mobility-on-demand and sensor selection with failures for environmental monitoring, as case studies to demonstrate the efficacy of our formulation."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "https://arxiv.org/pdf/1807.09358.pdf"
+# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "https://www.youtube.com/watch?v=HO2dRSLk-Vc"
+# url_poster = "#"
+# url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
