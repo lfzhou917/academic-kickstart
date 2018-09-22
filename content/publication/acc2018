@@ -1,0 +1,83 @@
++++
+title = "Strategies to Design Signals to Spoof Kalman Filter"
+date = 2018-06-28T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Zhongshun Zhang", "Lifeng Zhou", "Pratap Tokekar"]`.
+authors = ["[*Conference*] Zhongshun Zhang", "Lifeng Zhou", "Pratap Tokekar"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Annual American Control Conference*, IEEE."
+publication_short = "In *ACC*"
+
+# Abstract and optional shortened version.
+abstract = "We study the problem of designing spoofing signals
+to corrupt and mislead the output of a Kalman filter.
+Unlike existing works that focus on detection and filtering
+algorithms for the observer, we study the problem from the
+attacker’s point-of-view. In our model, the attacker can corrupt
+the measurements by adding spoofing signals. The attacker
+seeks to create a separation between the estimate of the Kalman
+filter with and without spoofing signals. We present a number
+of results on how to generate such spoofing signals, while
+minimizing the signal magnitude. The resulting algorithms are
+evaluated through simulations along with theoretical proofs."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8430817"
+# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "https://www.youtube.com/watch?v=HO2dRSLk-Vc"
+# url_poster = "#"
+# url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
